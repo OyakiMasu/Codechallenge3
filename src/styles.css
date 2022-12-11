@@ -1,0 +1,42 @@
+*{
+    list-style: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+h1{
+    text-align: center;
+    background:cornflowerblue;
+}
+
+
+h2 {
+    max-width: 100%;
+
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.wrapper .sidebar{
+    background: cornflowerblue;
+    position: fixed;
+    top: 10;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    padding: 20px 0;
+    transition: all 0.5s ease;
+    text-align: left;
+    overflow-x: hidden;
+    overflow-y: auto;
+
+}
+img {
+    width: 250px;
+}
