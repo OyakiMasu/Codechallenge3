@@ -85,6 +85,8 @@ first.addEventListener('click', function(){
     let newrunTime= document.querySelector('#rantime')
     newrunTime.innerHTML = `Run Time: ${data[0].runtime}`
 
+
+
 })
 
 let second = document.querySelector('#fate')
