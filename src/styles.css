@@ -1,11 +1,11 @@
-*{
+/* *{
     list-style: none;
     text-decoration: none;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
-}
+} */
 
 
 h1{
@@ -23,7 +23,7 @@ body {
     background-color: antiquewhite;
 }
 
-.wrapper .sidebar{
+/* .wrapper .sidebar{
     background: cornflowerblue;
     position: fixed;
     top: 10;
@@ -34,9 +34,14 @@ body {
     transition: all 0.5s ease;
     text-align: left;
     overflow-x: hidden;
-    overflow-y: auto;
+    overflow-y: auto; 
+    }*/
 
-}
+
 img {
     width: 250px;
+    margin-left: 0px;
+}
+.container {
+    margin-left: 400px;
 }
