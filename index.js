@@ -1,10 +1,11 @@
-fetch( "http://localhost:3000/films")
+fetch("https://oyakimasu.github.io/server/db.json")
 .then(function(response){
 return response.json();})
-.then(function(data){
+.then(function(film){
 //console.log(data);
 
 //THe Giant Gila Monster
+let data = film.films
 let th = document.querySelector('.container')
 //console.log(th);
  let runTime = document.createElement('p');
