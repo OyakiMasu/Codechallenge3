@@ -7,6 +7,9 @@
    3. Project Setup
    4. Installations
    5. Project Guidlines
+   
+   ###LINK TO THE WEBSITE
+   https://oyakimasu.github.io/Codechallenge3/
 
 
    ### Intro
